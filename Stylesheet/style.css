@@ -1,3 +1,5 @@
-lable#title2.desc{
-  color: pink;
+.wufoo .instruct{
+    font-size:20px;
+    font-family:sans-serif;
+    color: red;
 }
